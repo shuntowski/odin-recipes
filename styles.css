@@ -1,0 +1,24 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+}
+
+h1 { 
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+li:not(:last-child) {
+    margin-bottom: 10px;
+}
